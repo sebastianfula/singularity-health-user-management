@@ -1,0 +1,54 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de compilación
+/dist
+/build
+/out
+/.next
+
+# Archivos de caché
+.cache/
+.parcel-cache/
+
+# Archivos de cobertura
+/coverage
+
+# Archivos de IDE y editores
+/.idea
+/.vscode
+*.swp
+*.swo
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos específicos de Backend
+/Backend/node_modules/
+/Backend/dist/
+
+# Archivos específicos de Frontend
+/Frontend/node_modules/
+/Frontend/dist/
+/Frontend/build/
+
+# Archivos de base de datos
+*.sqlite
+*.db
+
+# Archivos temporales
+*.tmp
+*.temp

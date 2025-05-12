@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "usr_gestion_usuarios",
+    "password": "gestion_usuarios123",
+    "database": "gestion_usuarios_db",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "usr_gestion_usuarios",
+    "password": "gestion_usuarios123",
+    "database": "gestion_usuarios_db",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "usr_gestion_usuarios",
+    "password": "gestion_usuarios123",
+    "database": "gestion_usuarios_db",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
